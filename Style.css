@@ -1,0 +1,111 @@
+*{ 
+
+   box-sizing: border-box;
+
+}
+
+body {
+
+  background-color: magenta;
+
+}
+
+img {
+
+  width: 100px;
+
+  height: 100px;
+
+  border-radius: 50%;
+
+  align-items: center;
+
+}
+
+input[type=text],select {
+
+  width:70%;
+
+  margin: 5px 5px;
+
+  padding:15px;
+
+  border-radius: 17px;
+
+  border: 1px solid magenta;
+
+  display: inline-block;
+
+  outline: none;
+
+  background-color: black;
+
+  text-align: center;
+
+  color:grey;
+
+}
+
+input[type=number] {
+
+  width:70%;
+
+  margin: 5px 0;
+
+  padding: 15px;
+
+  border:1px solid magenta;
+
+  border-radius: 19px;
+
+  outline: none;
+
+  background-color: black;
+
+  text-align: center;
+
+}
+
+ .SignUp {
+
+   padding:10px;
+
+   border-radius: 8px;
+
+   background-color: black;
+
+   border: 1px solid magenta;
+
+   cursor: pointer;
+
+   outline: none;
+
+   text-align: center;
+
+   color: grey;
+
+   text-decoration:none;
+
+ }
+
+ .OR{
+
+   color: magenta;
+
+ }
+
+div{
+
+  background-color: black;
+
+  margin: 20px;
+
+  margin-top: 100px;
+
+  margin-bottom:1px;
+
+  padding:  20px;
+
+  border-radius: 29px;
+
+}
